@@ -25,7 +25,9 @@ img{
     width: 250px;
     border: white 10px dashed;
     display: block;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 div{
